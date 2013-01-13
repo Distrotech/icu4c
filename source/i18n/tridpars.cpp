@@ -22,7 +22,7 @@
 #include "unicode/uniset.h"
 #include "unicode/unistr.h"
 #include "unicode/utrans.h"
-#include "util.h"
+#include "../common/util.h"
 #include "uvector.h"
 
 U_NAMESPACE_BEGIN

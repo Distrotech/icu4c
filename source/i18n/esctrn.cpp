@@ -14,7 +14,7 @@
 
 #include "unicode/utf16.h"
 #include "esctrn.h"
-#include "util.h"
+#include "../common/util.h"
 
 U_NAMESPACE_BEGIN
 

@@ -21,7 +21,7 @@
 #include "cmemory.h"
 #include "strmatch.h"
 #include "strrepl.h"
-#include "util.h"
+#include "../common/util.h"
 #include "putilimp.h"
 
 static const UChar FORWARD_OP[] = {32,62,32,0}; // " > "

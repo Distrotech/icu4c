@@ -35,7 +35,7 @@
 #include "uvector.h"
 #include "hash.h"
 #include "patternprops.h"
-#include "util.h"
+#include "../common/util.h"
 #include "cmemory.h"
 #include "uprops.h"
 #include "putilimp.h"

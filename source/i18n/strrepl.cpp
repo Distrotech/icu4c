@@ -16,7 +16,7 @@
 #include "unicode/utf16.h"
 #include "strrepl.h"
 #include "rbt_data.h"
-#include "util.h"
+#include "../common/util.h"
 
 U_NAMESPACE_BEGIN
 

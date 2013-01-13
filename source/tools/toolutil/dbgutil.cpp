@@ -11,7 +11,7 @@
 
 #include "unicode/unistr.h"
 #include "unicode/ustring.h"
-#include "util.h"
+#include "../../common/util.h"
 #include "ucln.h"
 
 #include <stdio.h>

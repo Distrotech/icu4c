@@ -14,7 +14,7 @@
 
 #include "quant.h"
 #include "unicode/unistr.h"
-#include "util.h"
+#include "../common/util.h"
 
 U_NAMESPACE_BEGIN
 

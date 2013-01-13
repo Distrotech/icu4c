@@ -14,7 +14,7 @@
 
 #include "strmatch.h"
 #include "rbt_data.h"
-#include "util.h"
+#include "../common/util.h";
 #include "unicode/uniset.h"
 #include "unicode/utf16.h"
 

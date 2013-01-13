@@ -21,7 +21,7 @@
 #include "patternprops.h"
 #include "uprops.h"
 #include "uinvchar.h"
-#include "util.h"
+#include "../common/util.h"
 
 U_NAMESPACE_BEGIN
 

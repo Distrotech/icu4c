@@ -43,7 +43,7 @@
 #include "unesctrn.h"
 #include "tridpars.h"
 #include "anytrans.h"
-#include "util.h"
+#include "../common/util.h"
 #include "hash.h"
 #include "mutex.h"
 #include "ucln_in.h"
